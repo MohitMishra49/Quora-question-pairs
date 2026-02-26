@@ -6,3 +6,4 @@ distance
 beautifulsoup4
 pandas
 numpy
+nltk
